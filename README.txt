@@ -1,4 +1,4 @@
-IDEENKISTE FAMILIENZENTRUM — VERSION 11
+IDEENKISTE FAMILIENZENTRUM — VERSION 12
 
 Allgemeine Praxishilfe für Familienzentren NRW.
 Grundlage: Handbuch 2026/2027, Fassung V260911.
@@ -21,3 +21,17 @@ Die Kurzfassungen ersetzen nicht die vollständigen Handbuchvorgaben.
 JavaScript-Syntax, Kriterienansichten, Suche und Navigationslogik geprüft.
 Eine visuelle Browserprüfung war hier wegen einer Systembeschränkung nicht
 möglich. Externe Materiallinks wurden nicht auf Erreichbarkeit geprüft.
+
+ERGÄNZUNG V12
+Zusätzliche Alltagstipps in 72 Kriterienansichten ergänzt.
+Die Zuordnung folgt dem Handbuch; abweichende Überschriften des eingebrachten
+Textentwurfs wurden nicht übernommen. Allgemeine Tipps wurden den passenden
+Kriterien zugeordnet und dort konkretisiert. Keine Bezüge zu einzelnen Orten
+oder eingereichten Praxisunterlagen. Die neuen Tipps sind ebenfalls durchsuchbar.
+
+ERGÄNZUNG V12
+Zusätzliche Alltagstipps in 72 Kriterienansichten ergänzt.
+Die Zuordnung folgt dem Handbuch; abweichende Überschriften des eingebrachten
+Textentwurfs wurden nicht übernommen. Allgemeine Tipps wurden den passenden
+Kriterien zugeordnet und dort konkretisiert. Keine Bezüge zu einzelnen Orten
+oder eingereichten Praxisunterlagen. Die neuen Tipps sind ebenfalls durchsuchbar.
